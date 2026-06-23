@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/Logo.png" width="250">
+</p>
+
+<h1 align="center">Deck11</h1>
+
+<p align="center">
+A SteamOS-inspired gaming environment for Windows 11.
+</p>
+
 # Deck11
 
 A SteamOS-inspired gaming environment for Windows 11.
