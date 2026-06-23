@@ -8,10 +8,6 @@
 A SteamOS-inspired gaming environment for Windows 11.
 </p>
 
-# Deck11
-
-A SteamOS-inspired gaming environment for Windows 11.
-
 ## About
 
 Deck11 aims to provide a Steam Deck-like experience on Windows through:
